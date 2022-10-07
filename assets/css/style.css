@@ -16,7 +16,11 @@ a {
 p {
   font-size: 16px;
 }
-/*header */
+
+
+/*header*/
+
+
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -50,6 +54,10 @@ header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
+
+
+/*background seeting*/
+
 .hero {
   height: 800px;
   width: 100%;
