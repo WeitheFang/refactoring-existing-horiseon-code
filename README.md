@@ -1,37 +1,22 @@
-# 01 HTML, CSS, and Git: Code Refactor (Module 1 challenge)
+# <refactoring-existing-horiseon-code>
 
 ## Description
-This work is to refactor existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology.
 
-## User Story
+This project was to refactor an existing code from a company site called Horiseon and make it more accessible.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+## Installation
 
-## Acceptance Criteria
+N/A
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+## Usage
 
-## Mock-Up
+This project demonstrated how we can increase the accessibility of a site. To use this project, please refer to the HTML and CSS file, and see how the code was being organized.
 
-The following image shows the web application's appearance and functionality:
+## Credits
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+N/A
 
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+## License
+
+Please refer to the licence in the repo
 
