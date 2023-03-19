@@ -30,13 +30,15 @@ This project demonstrated how we can increase the accessibility of a site. To us
 ## Demo
 
 The following video is a demo of the application:
+
 <img src="assets/images/demo.gif" alt="demo video">
 
 This demo video demonstrates the following:
--The HTML elements follow a logical structure independent of styling and positioning
--The image elements contain accessible alt attributes
--The heading attributes fall in sequential order
--The title element is concise and descriptive
+
+- The HTML elements follow a logical structure independent of styling and positioning
+- The image elements contain accessible alt attributes
+- The heading attributes fall in sequential order
+- The title element is concise and descriptive
 
 ## Credits
 
